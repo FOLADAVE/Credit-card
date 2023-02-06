@@ -11,6 +11,10 @@ margin:20px;
 box-shadow: 2px 2px 20px #707070;
 font-size: 17px;
 justify-content: center;
+    max-width: 500px;
+  margin: auto;
+  position: relative;
+  bottom: -80px;
 }
 .top {
 display: inline-block;
